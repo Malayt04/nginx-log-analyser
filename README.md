@@ -14,7 +14,5 @@ This tool helps you understand request patterns and traffic data using basic Uni
 
 ---
 
-## 📂 Log Format
-
-The script expects a standard NGINX access log format like this:
+project URL: https://roadmap.sh/projects/nginx-log-analyser
 
